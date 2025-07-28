@@ -1,0 +1,18 @@
+For the NS LAB 
+
+To run the c code the command is :  gcc -o s1 filename.c
+                                    ./s1
+                                    OR
+                                    gcc filename.c
+                                    ./a.out
+
+
+To run python code the command is : python3 filename.py
+
+To open the VSCode and to run the files those should be as same as that of WSL for that we use from root : cd /mnt/where the code file is present 
+this is to run the files of client and server on the same machine 
+                               
+
+ALWAYS RUN THE SERVER FIRST
+
+AND replace the ip of server in client code 
